@@ -16,9 +16,6 @@
 - matplotlib
 - seaborn
 - scipy
-- plotly
-- mplcyberpunk
-- missingno
 
 ## План проекта
 1. Загрузка данных и изучение общей информации.
